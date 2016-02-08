@@ -1,0 +1,6 @@
+-   id: isort
+    name: usirt
+    description: This hook runs isort.
+    entry: isort
+    language: python
+    files: \.py$
